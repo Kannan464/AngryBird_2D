@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: cfedbbe14600aa847adb9457da4c825c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 753
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed0a846ae00f7ac0800000000000000
+      internalID: -3855361749296738848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 753
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160472f65254c480800000000000000
+      internalID: -8879882031879420392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 753
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48319ce12b425a000800000000000000
+      internalID: 46483718596531076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 753
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3c5c593217f050800000000000000
+      internalID: 5834151879853752299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 753
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4562f746027d060800000000000000
+      internalID: 6978081763635909877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 753
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6381d29cc4c366b80800000000000000
+      internalID: -8401961754322724810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 604
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da2fce8798b3dbb0800000000000000
+      internalID: -4912379807455565099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 648
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6480e40e91be3700800000000000000
+      internalID: 522049899066328175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 648
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04037920dd92b430800000000000000
+      internalID: 3797270953200911371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 646
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d814b92db2a2825f0800000000000000
+      internalID: -781328167643430515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 646
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3cc663a210caea0800000000000000
+      internalID: -5860307734302506013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 648
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437b48080f3a8580800000000000000
+      internalID: -8824171216147614904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 648
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb33f834ba9d363a0800000000000000
+      internalID: -6673250893236849733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 532
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343a5117aad88b50800000000000000
+      internalID: 6595762065369609267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 541
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62613da4b3185a0800000000000000
+      internalID: -6520865592900704572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 541
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6dc962baa09dd20800000000000000
+      internalID: 3303683531856467665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_21
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 541
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568e6f38e1bc16a50800000000000000
+      internalID: 6512709868077901925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940051419d82a4d40800000000000000
+      internalID: 5569308802006974537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 433
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ee37fb2e2311c0800000000000000
+      internalID: -4534229633465392593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 433
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428c852e59132490800000000000000
+      internalID: -7772340639763758515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78e63b6998485a0800000000000000
+      internalID: -6519935080177170434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 331
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c731dc04c6ab55d80800000000000000
+      internalID: -8262492967234890884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 339
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9fc5cb14049a00800000000000000
+      internalID: 762238754261801890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 342
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d527980e3d40750800000000000000
+      internalID: 6270369542538681753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 342
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403fe4695274b3c50800000000000000
+      internalID: 6645983901876417284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 342
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52adff9c06c5c55b0800000000000000
+      internalID: -5378322284211611099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 342
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b4bf5e54d41a00800000000000000
+      internalID: 726438941711184924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab9cb563c85b540800000000000000
+      internalID: 5023075124497726026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 229
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d880fdf4f3394f110800000000000000
+      internalID: 1293820893094414477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 252
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fc0f229016c130800000000000000
+      internalID: 3586572373287827499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_49
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 252
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e33021e63fb0c0800000000000000
+      internalID: -4557863957339840360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_50
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 252
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ac79056e4c0550800000000000000
+      internalID: 6128359388802230194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 262
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19144d78f00942c10800000000000000
+      internalID: 2027904128601309585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 293
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdb6fdd73ed0370800000000000000
+      internalID: 8290532618817756350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d4060f5d2fe440800000000000000
+      internalID: 4967238800159069133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 162
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffca5b1a14bd730800000000000000
+      internalID: 4024882854779224050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_57
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 172
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907e831314e1d4c0800000000000000
+      internalID: -4264376601559535466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 172
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf2f8ff227605d0800000000000000
+      internalID: -3096662143404934185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 172
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f6c5a8a195f2d50800000000000000
+      internalID: 6714683539958034182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1969b463392e9c0800000000000000
+      internalID: -3899392465943752210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4e8c2881e88070800000000000000
+      internalID: 8108979104059903050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_65
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 92
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c0085927100b20800000000000000
+      internalID: 3098502009968444131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_66
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 92
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955431468b72ed00800000000000000
+      internalID: 1000497883779454365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_68
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 123
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4544fce7a7c7440800000000000000
+      internalID: 4934953976753050852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_69
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 123
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1beb000abedcd0c0800000000000000
+      internalID: -4549516633104979170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6044765c027bcff0800000000000000
+      internalID: -14792776450031510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_74
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 12
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e163e1d081bd50800000000000000
+      internalID: 6751318955356447657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_75
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 12
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d0deaa32b184b0800000000000000
+      internalID: -5439870909776078652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 75
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e634d21f7478980800000000000000
+      internalID: -8536775467485401580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_78
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 75
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df74d79a08ae4510800000000000000
+      internalID: 1535349286430343123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933d58790103acb0800000000000000
+      internalID: -4854034833189555311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_85
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 25
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab287943c86fec40800000000000000
+      internalID: 5543764854276893600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_86
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 27
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95a611881692760800000000000000
+      internalID: 7433579896987343356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBird Enemy 1PNG_87
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 27
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ad9c48c3082810800000000000000
+      internalID: 1740645414792440117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AngryBird Enemy 1PNG_0: -3855361749296738848
+      AngryBird Enemy 1PNG_1: -8879882031879420392
+      AngryBird Enemy 1PNG_10: 3797270953200911371
+      AngryBird Enemy 1PNG_11: -781328167643430515
+      AngryBird Enemy 1PNG_12: -5860307734302506013
+      AngryBird Enemy 1PNG_13: -8824171216147614904
+      AngryBird Enemy 1PNG_14: -6673250893236849733
+      AngryBird Enemy 1PNG_15: 6595762065369609267
+      AngryBird Enemy 1PNG_19: -6520865592900704572
+      AngryBird Enemy 1PNG_2: 46483718596531076
+      AngryBird Enemy 1PNG_20: 3303683531856467665
+      AngryBird Enemy 1PNG_21: 6512709868077901925
+      AngryBird Enemy 1PNG_23: 5569308802006974537
+      AngryBird Enemy 1PNG_27: -4534229633465392593
+      AngryBird Enemy 1PNG_28: -7772340639763758515
+      AngryBird Enemy 1PNG_3: 5834151879853752299
+      AngryBird Enemy 1PNG_35: -6519935080177170434
+      AngryBird Enemy 1PNG_38: -8262492967234890884
+      AngryBird Enemy 1PNG_39: 762238754261801890
+      AngryBird Enemy 1PNG_4: 6978081763635909877
+      AngryBird Enemy 1PNG_40: 6270369542538681753
+      AngryBird Enemy 1PNG_41: 6645983901876417284
+      AngryBird Enemy 1PNG_42: -5378322284211611099
+      AngryBird Enemy 1PNG_43: 726438941711184924
+      AngryBird Enemy 1PNG_44: 5023075124497726026
+      AngryBird Enemy 1PNG_46: 1293820893094414477
+      AngryBird Enemy 1PNG_48: 3586572373287827499
+      AngryBird Enemy 1PNG_49: -4557863957339840360
+      AngryBird Enemy 1PNG_5: -8401961754322724810
+      AngryBird Enemy 1PNG_50: 6128359388802230194
+      AngryBird Enemy 1PNG_51: 2027904128601309585
+      AngryBird Enemy 1PNG_52: 8290532618817756350
+      AngryBird Enemy 1PNG_54: 4967238800159069133
+      AngryBird Enemy 1PNG_56: 4024882854779224050
+      AngryBird Enemy 1PNG_57: -4264376601559535466
+      AngryBird Enemy 1PNG_58: -3096662143404934185
+      AngryBird Enemy 1PNG_59: 6714683539958034182
+      AngryBird Enemy 1PNG_61: -3899392465943752210
+      AngryBird Enemy 1PNG_64: 8108979104059903050
+      AngryBird Enemy 1PNG_65: 3098502009968444131
+      AngryBird Enemy 1PNG_66: 1000497883779454365
+      AngryBird Enemy 1PNG_68: 4934953976753050852
+      AngryBird Enemy 1PNG_69: -4549516633104979170
+      AngryBird Enemy 1PNG_72: -14792776450031510
+      AngryBird Enemy 1PNG_74: 6751318955356447657
+      AngryBird Enemy 1PNG_75: -5439870909776078652
+      AngryBird Enemy 1PNG_77: -8536775467485401580
+      AngryBird Enemy 1PNG_78: 1535349286430343123
+      AngryBird Enemy 1PNG_79: -4854034833189555311
+      AngryBird Enemy 1PNG_8: -4912379807455565099
+      AngryBird Enemy 1PNG_85: 5543764854276893600
+      AngryBird Enemy 1PNG_86: 7433579896987343356
+      AngryBird Enemy 1PNG_87: 1740645414792440117
+      AngryBird Enemy 1PNG_9: 522049899066328175
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
